@@ -3,34 +3,48 @@
 ## Overview
 The Custom Video Player React app is designed to make managing and watching your favorite videos a breeze. It features an easy-to-use playlist interface, intuitive controls, and seamless playback customization options.
 
+
 ## Features:
 
-# Playlist Management
-Browse through your video playlist effortlessly, complete with thumbnails and descriptions. Arrange your videos in any order you like by simply dragging and dropping.
+- Playlist Management
+Browse through your video playlist effortlessly, complete with thumbnails and descriptions. Arrange your videos in any order you like by simply dragging and reordering
 
-# Enhanced Video Playback
-Experience videos like never before with our custom video player. Control playback with ease using features like play/pause, rewind, forward, and adjust playback speed. Stay informed with the progress bar and time display.
+- Enhanced Video Playback:
+Experience videos like never before with our custom video player. Control playback with ease using features like play/pause, rewind, forward, playback speed settings and progress display with progress bar and duration
 
-# Intuitive Interface
-Switch between fullscreen and minimized views effortlessly to suit your preference. Our user-friendly design ensures you never miss a beat while watching your favorite content.
+- Intuitive Interface:
+Switch between fullscreen and minimized views effortlessly to suit your preference.
 
-# Automatic Playlist Progression
-Sit back and relax as the app seamlessly moves to the next video in your playlist once one finishes. Enjoy uninterrupted viewing without lifting a finger.
+- Automatic Playlist Progression:
+Sit back and relax as the app starts autoplaying the next video in the playlist once a video is over.
 
-# Keyboard Shortcut Support
-Navigate the app with ease using keyboard shortcuts. Exit fullscreen mode or close the video player instantly with the press of a key.
+- Keyboard Shortcut Support:
+Navigate the app with ease using keyboard shortcuts. Exit fullscreen mode or close the video player instantly with the press of a key (Esc).
+
+
+## Framewords & Libraries used
+
+- React.js
+- Tailwind CSS
+- react beautiful dnd
+
 
 ## Usage:
 
-# Installation
+### Installation
 
-### `git clone https://github.com/akshayb03/Custom_Video_Player.git`
+- `git clone https://github.com/akshayb03/Custom_Video_Player.git`
 
-### `npm install`
+- `npm install`
 
-# Run
+### Build
 
-### `npm run start`
+- `npm run build`
+  
+### Run
+
+- `npm run start`
+
 
 ## Conclusion
 
