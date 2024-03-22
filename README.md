@@ -3,6 +3,8 @@
 ## Overview
 The Custom Video Player React app is designed to make managing and watching your favorite videos a breeze. It features an easy-to-use playlist interface, intuitive controls, and seamless playback customization options.
 
+The website is hosted on render. You can check [here](https://my-video-player.onrender.com)
+
 
 ## Features:
 
